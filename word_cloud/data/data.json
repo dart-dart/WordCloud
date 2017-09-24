@@ -1,0 +1,111 @@
+ [{
+	"letter" : "a",
+	"wordNum" : 2,
+  "w0" : "aditya" ,
+  "w1" : "andrew"
+},
+
+{
+"letter" : "b",
+"wordNum" : 0
+},
+
+{
+  "letter" : "c" ,
+  "wordNum" : 0
+},
+{ "letter" : "d",
+  "wordNum" : 0
+},
+{
+  "letter" : "e",
+  "wordNum" : 1,
+  "w0" : "eva"
+},
+{
+  "letter" : "f",
+  "wordNum" : 0
+},
+{
+  "letter" :"g",
+  "wordNum" : 0
+},
+{
+  "letter" : "h",
+  "wordNum" : 0
+},
+{
+   "letter" : "i",
+  "wordNum" : 0
+},
+{
+  "letter" : "j",
+  "wordNum" : 0
+},
+{
+  "letter" : "k",
+  "wordNum" :1,
+  "w0" : "kayode"
+},
+{
+  "letter" : "l",
+  "wordNum" : 0
+},
+{
+  "letter" : "m",
+   "wordNum" : 0
+ },
+{
+  "letter" : "n",
+  "wordNum" : 0
+},
+{
+  "letter" : "o",
+  "wordNum" : 0
+},
+{
+  "letter" :"p",
+  "wordNum" : 1,
+  "w0" : "patrick"
+},
+{
+  "letter" : "q",
+  "wordNum" : 0
+},
+{
+  "letter" : "r",
+  "wordNum" : 0
+},
+{
+  "letter" : "s",
+  "wordNum" : 1 ,
+  "w0" : "steven"
+},
+{
+  "letter" : "t",
+  "wordNum" : 0
+},
+{
+  "letter" :"u",
+  "wordNum" : 0
+},
+{
+  "letter" : "v",
+  "wordNum" : 0
+},
+{
+  "letter" : "w",
+  "wordNum" : 0
+},
+{
+  "letter" : "x",
+  "wordNum" : 0
+},
+{
+  "letter" :"y",
+  "wordNum" : 0
+},
+{
+  "letter" : "z",
+  "wordNum" : 0
+  }]
